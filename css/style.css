@@ -10,10 +10,11 @@ body {
     margin: 0;
     overflow-x: hidden !important;
 }
-.t{
-    overflow-x: hidden;
-}
 
+.rn{
+    overflow-x: hidden !important;
+    overflow: hidden;
+}
 article, aside, footer, header, nav, section {
     display: block
 }
